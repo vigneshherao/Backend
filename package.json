@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/vigneshherao/Backend#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node": "^21.2.0",
+    "nodemon": "^3.0.2"
   }
 }
