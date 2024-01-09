@@ -1,0 +1,22 @@
+{
+  "name": "vignesh",
+  "version": "1.0.0",
+  "description": "This is backend revision for improvement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshherao/Backend.git"
+  },
+  "author": "vignesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshherao/Backend/issues"
+  },
+  "homepage": "https://github.com/vigneshherao/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
